@@ -1,2 +1,5 @@
-this is a copy master snapshot, final get shang
+this is a copy master snapshot, final get shang,
+
+we make a whole new copy of a.txt ,remote is not different with u.
+has thing diff from remote file,lets stash this snapshot;
 
